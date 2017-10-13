@@ -1,0 +1,369 @@
+sampleID,IDH1mutation,therapy,CIMPstatus,Subtype,OS,Osind
+TCGA-02-0003-01,wildtype,StandardRadiation,NON G-CIMP,Proneural,144,1
+TCGA-02-0033-01,wildtype,NonstandardRadiation,NON G-CIMP,Mesenchymal,86,1
+TCGA-02-0047-01,wildtype,NonstandardRadiation,NON G-CIMP,Proneural,448,1
+TCGA-02-0055-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,76,1
+TCGA-02-2466-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,511,1
+TCGA-02-2470-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,393,1
+TCGA-02-2483-01,R132H,TMZChemoradiation.TMZChemoLong,G-CIMP,Proneural,466,0
+TCGA-02-2485-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,470,0
+TCGA-02-2486-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,493,0
+TCGA-06-0122-01,wildtype,,NON G-CIMP,Mesenchymal,187,1
+TCGA-06-0124-01,wildtype,TMZChemoLong,NON G-CIMP,Mesenchymal,620,1
+TCGA-06-0125-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,1448,1
+TCGA-06-0126-01,wildtype,,NON G-CIMP,Classical,211,1
+TCGA-06-0128-01,R132H,StandardRadiation.TMZChemoLong,G-CIMP,Proneural,691,1
+TCGA-06-0129-01,R132H,TMZChemoradiation.TMZChemoLong,G-CIMP,Proneural,1024,1
+TCGA-06-0130-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,394,1
+TCGA-06-0137-01,wildtype,NonstandardRadiation.AlkChemoLong,NON G-CIMP,Classical,812,1
+TCGA-06-0139-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,362,1
+TCGA-06-0140-01,wildtype,,NON G-CIMP,Mesenchymal,6,1
+TCGA-06-0141-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,313,1
+TCGA-06-0142-01,wildtype,,NON G-CIMP,Neural,67,1
+TCGA-06-0145-01,wildtype,,NON G-CIMP,Classical,71,1
+TCGA-06-0151-01,wildtype,,NON G-CIMP,,1417,1
+TCGA-06-0152-01,wildtype,NonstandardRadiation,NON G-CIMP,Mesenchymal,375,1
+TCGA-06-0154-01,wildtype,NonstandardRadiation,NON G-CIMP,Mesenchymal,424,1
+TCGA-06-0155-01,wildtype,StandardRadiation.AlkChemoLong,NON G-CIMP,Mesenchymal,318,1
+TCGA-06-0157-01,wildtype,NonstandardRadiation,NON G-CIMP,Classical,97,1
+TCGA-06-0158-01,wildtype,NonstandardRadiation.AlkChemoLong,NON G-CIMP,Classical,329,1
+TCGA-06-0159-01,wildtype,,NON G-CIMP,,287,1
+TCGA-06-0160-01,wildtype,,NON G-CIMP,Neural,359,1
+TCGA-06-0162-01,wildtype,NonstandardRadiation,NON G-CIMP,Neural,104,1
+TCGA-06-0164-01,wildtype,NonstandardRadiation.AlkChemoLong,NON G-CIMP,Mesenchymal,1731,1
+TCGA-06-0166-01,wildtype,NonstandardRadiation.AlkChemoLong,NON G-CIMP,Proneural,178,1
+TCGA-06-0168-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,598,1
+TCGA-06-0169-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,100,1
+TCGA-06-0171-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Neural,399,1
+TCGA-06-0173-01,wildtype,,NON G-CIMP,Neural,136,1
+TCGA-06-0174-01,wildtype,NonstandardRadiation,NON G-CIMP,Proneural,98,1
+TCGA-06-0184-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,1228,0
+TCGA-06-0185-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,1126,0
+TCGA-06-0187-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Classical,828,1
+TCGA-06-0188-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Neural,866,0
+TCGA-06-0189-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,469,1
+TCGA-06-0190-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,317,1
+TCGA-06-0192-01,wildtype,NonstandardRadiation,NON G-CIMP,Mesenchymal,557,0
+TCGA-06-0195-01,wildtype,NonstandardRadiation,NON G-CIMP,Neural,225,1
+TCGA-06-0210-01,wildtype,NonstandardRadiation,NON G-CIMP,Mesenchymal,225,1
+TCGA-06-0211-01,wildtype,NonstandardRadiation.AlkChemoLong,NON G-CIMP,Classical,360,1
+TCGA-06-0213-01,wildtype,,NON G-CIMP,Neural,16,1
+TCGA-06-0214-01,wildtype,NonstandardRadiation,NON G-CIMP,Neural,457,1
+TCGA-06-0216-01,wildtype,NonstandardRadiation,NON G-CIMP,Proneural,735,1
+TCGA-06-0219-01,wildtype,,NON G-CIMP,Neural,22,1
+TCGA-06-0221-01,R132G,NonstandardRadiation,G-CIMP,Neural,603,1
+TCGA-06-0237-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,415,1
+TCGA-06-0238-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,405,1
+TCGA-06-0240-01,wildtype,,NON G-CIMP,Neural,621,1
+TCGA-06-0241-01,wildtype,NonstandardRadiation,NON G-CIMP,Proneural,455,0
+TCGA-06-0644-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,375,0
+TCGA-06-0645-01,wildtype,,NON G-CIMP,Mesenchymal,175,1
+TCGA-06-0646-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,175,1
+TCGA-06-0648-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Proneural,298,1
+TCGA-06-0649-01,wildtype,,NON G-CIMP,Neural,64,1
+TCGA-06-0650-01,wildtype,,NON G-CIMP,Mesenchymal,717,1
+TCGA-06-0686-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Proneural,286,0
+TCGA-06-0743-01,wildtype,NonstandardRadiation,NON G-CIMP,Classical,679,0
+TCGA-06-0744-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Classical,595,0
+TCGA-06-0745-01,wildtype,NonstandardRadiation,NON G-CIMP,Proneural,239,1
+TCGA-06-0747-01,wildtype,NonstandardRadiation,NON G-CIMP,Classical,82,1
+TCGA-06-0749-01,wildtype,,NON G-CIMP,Neural,82,1
+TCGA-06-0750-01,wildtype,,NON G-CIMP,Mesenchymal,28,1
+TCGA-06-0875-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Proneural,279,0
+TCGA-06-0876-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Classical,271,0
+TCGA-06-0877-01,wildtype,NonstandardRadiation,NON G-CIMP,Classical,204,0
+TCGA-06-0878-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,218,0
+TCGA-06-0879-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Classical,699,0
+TCGA-06-0881-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,178,0
+TCGA-06-0882-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,165,0
+TCGA-06-0939-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,637,0
+TCGA-06-1084-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,226,0
+TCGA-06-1087-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,123,1
+TCGA-06-1800-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,815,1
+TCGA-06-1801-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Proneural,263,0
+TCGA-06-1802-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,240,0
+TCGA-06-1804-01,wildtype,,NON G-CIMP,Classical,414,1
+TCGA-06-1805-01,R132H,TMZChemoradiation.TMZChemoLong,G-CIMP,Proneural,128,0
+TCGA-06-1806-01,wildtype,,,,466,1
+TCGA-06-2557-01,wildtype,,NON G-CIMP,Mesenchymal,33,1
+TCGA-06-2558-01,wildtype,StandardRadiation,NON G-CIMP,Proneural,380,1
+TCGA-06-2559-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,150,1
+TCGA-06-2561-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,282,0
+TCGA-06-2562-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,86,0
+TCGA-06-2563-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,259,0
+TCGA-06-2564-01,wildtype,NonstandardRadiation.TMZChemo,NON G-CIMP,Classical,181,0
+TCGA-06-2565-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,207,0
+TCGA-06-2566-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,182,1
+TCGA-06-2567-01,wildtype,NonstandardRadiation.TMZChemo,NON G-CIMP,Neural,133,1
+TCGA-06-2569-01,wildtype,,G-CIMP,Mesenchymal,13,0
+TCGA-06-2570-01,R132H,TMZChemoradiation.TMZChemoLong,G-CIMP,Proneural,285,0
+TCGA-06-5408-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Classical,357,1
+TCGA-06-5410-01,wildtype,,NON G-CIMP,Mesenchymal,108,1
+TCGA-06-5411-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Neural,254,1
+TCGA-06-5412-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,138,1
+TCGA-06-5413-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Neural,268,0
+TCGA-06-5414-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,273,0
+TCGA-06-5415-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,260,0
+TCGA-06-5416-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,204,0
+TCGA-06-5417-01,R132H,TMZChemoradiation.TMZChemoLong,G-CIMP,Proneural,155,0
+TCGA-06-5418-01,wildtype,,NON G-CIMP,Mesenchymal,83,1
+TCGA-06-5856-01,wildtype,,NON G-CIMP,Classical,114,1
+TCGA-06-5858-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,187,0
+TCGA-06-5859-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,139,0
+TCGA-06-6388-01,wildtype,TMZChemoradiation.TMZChemoLong,,,159,1
+TCGA-06-6389-01,R132H,,G-CIMP,Proneural,237,0
+TCGA-06-6390-01,wildtype,,NON G-CIMP,Classical,164,1
+TCGA-06-6391-01,wildtype,,NON G-CIMP,Proneural,45,1
+TCGA-06-6693-01,wildtype,,,,3667,1
+TCGA-06-6694-01,wildtype,,,,224,1
+TCGA-06-6695-01,wildtype,TMZChemoradiation.TMZChemoLong,,,253,0
+TCGA-06-6697-01,wildtype,,,,391,0
+TCGA-06-6698-01,wildtype,NonstandardRadiation.TMZChemo,,,145,0
+TCGA-06-6699-01,wildtype,,,,47,0
+TCGA-06-6700-01,wildtype,TMZChemoradiation.TMZChemoLong,,,145,0
+TCGA-06-6701-01,R132H,TMZChemoradiation.TMZChemoLong,,,151,0
+TCGA-08-0386-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,548,1
+TCGA-12-0616-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,448,1
+TCGA-12-0618-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,395,1
+TCGA-12-0619-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,1062,1
+TCGA-12-0656-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Classical,2883,1
+TCGA-12-0657-01,wildtype,,NON G-CIMP,Classical,3,1
+TCGA-12-0662-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,,1161,1
+TCGA-12-0670-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Neural,790,1
+TCGA-12-0688-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Classical,811,1
+TCGA-12-0691-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,,369,1
+TCGA-12-0692-01,wildtype,TMZChemoLong,NON G-CIMP,Classical,111,1
+TCGA-12-0707-01,wildtype,,NON G-CIMP,Neural,864,1
+TCGA-12-0773-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Neural,1315,1
+TCGA-12-0775-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,232,1
+TCGA-12-0778-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,454,1
+TCGA-12-0820-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Classical,562,1
+TCGA-12-0821-01,wildtype,StandardRadiation.AlkChemoLong,NON G-CIMP,Neural,323,1
+TCGA-12-0826-01,wildtype,,NON G-CIMP,Neural,845,1
+TCGA-12-0827-01,R132H,StandardRadiation.TMZChemoLong,G-CIMP,Mesenchymal,1179,1
+TCGA-12-0828-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Neural,272,1
+TCGA-12-0829-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,626,1
+TCGA-12-1088-01,Y319F,StandardRadiation.AlkChemoLong,NON G-CIMP,Mesenchymal,3881,1
+TCGA-12-1089-01,wildtype,StandardRadiation.AlkChemoLong,NON G-CIMP,Neural,177,1
+TCGA-12-1092-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,661,1
+TCGA-12-1093-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,486,1
+TCGA-12-1597-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Proneural,675,1
+TCGA-12-1598-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,476,1
+TCGA-12-1599-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,781,1
+TCGA-12-1600-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,448,1
+TCGA-12-1602-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,206,1
+TCGA-12-3644-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,1818,1
+TCGA-12-3646-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,1339,1
+TCGA-12-3648-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,819,1
+TCGA-12-3649-01,wildtype,TMZChemoLong,NON G-CIMP,Neural,463,1
+TCGA-12-3650-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,333,1
+TCGA-12-3651-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,386,1
+TCGA-12-3652-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,1062,1
+TCGA-12-3653-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,442,1
+TCGA-12-5295-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,454,1
+TCGA-12-5299-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,98,1
+TCGA-12-5301-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,62,1
+TCGA-14-0736-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,460,1
+TCGA-14-0740-01,wildtype,StandardRadiation,,,364,1
+TCGA-14-0781-01,wildtype,,NON G-CIMP,Mesenchymal,29,1
+TCGA-14-0786-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Classical,701,1
+TCGA-14-0787-01,wildtype,,NON G-CIMP,Classical,68,1
+TCGA-14-0789-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,342,1
+TCGA-14-0790-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,419,1
+TCGA-14-0812-01,wildtype,AlkChemo,NON G-CIMP,Neural,99,1
+TCGA-14-0813-01,wildtype,,NON G-CIMP,Proneural,41,1
+TCGA-14-0817-01,wildtype,,NON G-CIMP,Neural,164,1
+TCGA-14-0862-01,wildtype,,,,88,1
+TCGA-14-0865-01,wildtype,TMZChemoradiation.TMZChemoLong,G-CIMP,Proneural,502,1
+TCGA-14-0866-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,801,1
+TCGA-14-0867-01,wildtype,,NON G-CIMP,Mesenchymal,62,1
+TCGA-14-0871-01,wildtype,StandardRadiation,,Mesenchymal,880,1
+TCGA-14-1034-01,wildtype,StandardRadiation.AlkChemo,NON G-CIMP,Mesenchymal,485,1
+TCGA-14-1037-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,587,1
+TCGA-14-1043-01,wildtype,NonstandardRadiation,,,24,1
+TCGA-14-1395-01,wildtype,AlkChemoLong,,,42,1
+TCGA-14-1396-01,wildtype,,NON G-CIMP,Mesenchymal,34,1
+TCGA-14-1450-01,wildtype,TMZChemoradiation.TMZChemoLong,,,1788,0
+TCGA-14-1451-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,703,1
+TCGA-14-1453-01,wildtype,,NON G-CIMP,Classical,35,1
+TCGA-14-1455-01,wildtype,AlkChemo,NON G-CIMP,Proneural,28,1
+TCGA-14-1456-01,R132H,StandardRadiation,G-CIMP,Proneural,1246,0
+TCGA-14-1458-01,R132H,TMZChemoradiation.TMZChemoLong,G-CIMP,Proneural,203,1
+TCGA-14-1794-01,wildtype,NonstandardRadiation,NON G-CIMP,Proneural,30,1
+TCGA-14-1795-01,wildtype,AlkChemo,NON G-CIMP,Proneural,60,1
+TCGA-14-1821-01,R132H,TMZChemoradiation.TMZChemoLong,G-CIMP,Proneural,541,1
+TCGA-14-1823-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,543,1
+TCGA-14-1825-01,wildtype,StandardRadiation,NON G-CIMP,Proneural,232,1
+TCGA-14-1827-01,wildtype,AlkChemoLong,NON G-CIMP,Neural,179,1
+TCGA-14-1829-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,218,0
+TCGA-14-2554-01,wildtype,NonstandardRadiation,NON G-CIMP,Neural,532,1
+TCGA-14-3476-01,wildtype,,NON G-CIMP,Neural,12,1
+TCGA-14-3477-01,wildtype,TMZChemoradiation.TMZChemoLong,G-CIMP,Proneural,115,0
+TCGA-14-4157-01,R132H,TMZChemoradiation.TMZChemoLong,G-CIMP,Proneural,104,0
+TCGA-15-0742-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Classical,419,1
+TCGA-15-1446-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,581,0
+TCGA-16-0846-01,wildtype,,NON G-CIMP,Proneural,119,1
+TCGA-16-0848-01,wildtype,StandardRadiation,NON G-CIMP,Proneural,535,1
+TCGA-16-0849-01,R132H,StandardRadiation,G-CIMP,Proneural,793,0
+TCGA-16-0850-01,R132H,StandardRadiation,G-CIMP,Proneural,498,1
+TCGA-16-0861-01,wildtype,StandardRadiation,NON G-CIMP,Classical,,
+TCGA-16-1045-01,wildtype,StandardRadiation,NON G-CIMP,Mesenchymal,883,1
+TCGA-16-1048-01,wildtype,,NON G-CIMP,Classical,,
+TCGA-16-1060-01,wildtype,NonstandardRadiation,NON G-CIMP,Mesenchymal,278,1
+TCGA-19-0957-01,wildtype,TMZChemoLong,NON G-CIMP,Proneural,666,1
+TCGA-19-1385-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,327,1
+TCGA-19-1386-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,276,1
+TCGA-19-1387-01,wildtype,TMZChemoLong,NON G-CIMP,Proneural,181,0
+TCGA-19-1388-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,394,1
+TCGA-19-1389-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,141,1
+TCGA-19-1390-01,wildtype,,NON G-CIMP,Proneural,772,1
+TCGA-19-1786-01,wildtype,StandardRadiation,NON G-CIMP,Classical,218,0
+TCGA-19-1787-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,385,1
+TCGA-19-1788-01,"R132H, G300C",TMZChemoradiation.TMZChemoLong,G-CIMP,Proneural,112,1
+TCGA-19-1789-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Classical,99,1
+TCGA-19-1790-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,154,1
+TCGA-19-1791-01,wildtype,,NON G-CIMP,Neural,4,0
+TCGA-19-2619-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,294,0
+TCGA-19-2620-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,148,1
+TCGA-19-2621-01,wildtype,,NON G-CIMP,Classical,33,1
+TCGA-19-2623-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,229,0
+TCGA-19-2624-01,wildtype,,NON G-CIMP,Proneural,5,1
+TCGA-19-2625-01,wildtype,,NON G-CIMP,Classical,124,1
+TCGA-19-2629-01,R132H,TMZChemoradiation.TMZChemoLong,G-CIMP,Proneural,737,1
+TCGA-19-2631-01,wildtype,StandardRadiation,NON G-CIMP,Classical,213,1
+TCGA-19-4068-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,137,0
+TCGA-19-5947-01,wildtype,NonstandardRadiation,NON G-CIMP,Mesenchymal,202,1
+TCGA-19-5950-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,343,0
+TCGA-19-5951-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,244,1
+TCGA-19-5952-01,wildtype,NonstandardRadiation,NON G-CIMP,Classical,575,1
+TCGA-19-5953-01,wildtype,,,,144,1
+TCGA-19-5954-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,242,0
+TCGA-19-5955-01,wildtype,,NON G-CIMP,Mesenchymal,54,1
+TCGA-19-5956-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,198,0
+TCGA-19-5958-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,164,0
+TCGA-19-5959-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,161,0
+TCGA-19-5960-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,165,0
+TCGA-26-1439-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,422,1
+TCGA-26-1442-01,R132H,TMZChemoradiation.TMZChemoLong,G-CIMP,Proneural,953,0
+TCGA-26-1799-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Neural,285,1
+TCGA-26-5132-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,286,0
+TCGA-26-5133-01,wildtype,TMZChemoradiation.TMZChemoLong,G-CIMP,Proneural,452,0
+TCGA-26-5134-01,wildtype,NonstandardRadiation,NON G-CIMP,Proneural,167,0
+TCGA-26-5135-01,wildtype,,NON G-CIMP,Proneural,270,1
+TCGA-26-5136-01,wildtype,,NON G-CIMP,Mesenchymal,577,1
+TCGA-26-5139-01,wildtype,,NON G-CIMP,Mesenchymal,48,0
+TCGA-26-6173-01,wildtype,TMZChemoradiation.TMZChemoLong,,,241,0
+TCGA-26-6174-01,wildtype,TMZChemoradiation.TMZChemoLong,,,71,0
+TCGA-27-1830-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Proneural,154,1
+TCGA-27-1831-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,505,1
+TCGA-27-1832-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,300,1
+TCGA-27-1833-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Classical,737,1
+TCGA-27-1834-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,1233,1
+TCGA-27-1835-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,648,1
+TCGA-27-1836-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,914,1
+TCGA-27-1837-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Classical,427,1
+TCGA-27-1838-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,350,1
+TCGA-27-2518-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,753,1
+TCGA-27-2519-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,316,0
+TCGA-27-2521-01,R132H,StandardRadiation.TMZChemoLong,G-CIMP,Proneural,316,0
+TCGA-27-2523-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Classical,489,1
+TCGA-27-2524-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,231,1
+TCGA-27-2526-01,wildtype,,NON G-CIMP,Neural,87,1
+TCGA-27-2527-01,wildtype,NonstandardRadiation,NON G-CIMP,Mesenchymal,438,1
+TCGA-27-2528-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,480,1
+TCGA-28-1745-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,345,0
+TCGA-28-1746-01,wildtype,,NON G-CIMP,Proneural,6,0
+TCGA-28-1747-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Classical,77,1
+TCGA-28-1749-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,280,0
+TCGA-28-1750-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,254,0
+TCGA-28-1751-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,232,0
+TCGA-28-1752-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,258,0
+TCGA-28-1753-01,wildtype,NonstandardRadiation,NON G-CIMP,Mesenchymal,37,0
+TCGA-28-1755-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,47,1
+TCGA-28-1757-01,wildtype,,NON G-CIMP,Classical,4,0
+TCGA-28-1760-01,wildtype,StandardRadiation.TMZChemo,NON G-CIMP,Classical,143,0
+TCGA-28-2502-01,wildtype,NonstandardRadiation,NON G-CIMP,Mesenchymal,20,0
+TCGA-28-2506-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,205,0
+TCGA-28-2509-01,wildtype,StandardRadiation.TMZChemo,NON G-CIMP,Mesenchymal,145,0
+TCGA-28-2510-01,wildtype,,NON G-CIMP,Proneural,,
+TCGA-28-2513-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,222,0
+TCGA-28-2514-01,wildtype,StandardRadiation.TMZChemo,NON G-CIMP,Classical,160,0
+TCGA-28-5204-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,454,1
+TCGA-28-5207-01,wildtype,NonstandardRadiation.TMZChemo,NON G-CIMP,Mesenchymal,343,1
+TCGA-28-5208-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,474,0
+TCGA-28-5209-01,wildtype,,NON G-CIMP,Mesenchymal,442,0
+TCGA-28-5211-01,wildtype,TMZChemoradiation.TMZChemoLong,,,358,0
+TCGA-28-5213-01,wildtype,StandardRadiation.TMZChemo,NON G-CIMP,Mesenchymal,298,0
+TCGA-28-5214-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,432,0
+TCGA-28-5215-01,wildtype,NonstandardRadiation.TMZChemo,NON G-CIMP,Mesenchymal,335,1
+TCGA-28-5216-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,415,0
+TCGA-28-5218-01,wildtype,StandardRadiation.TMZChemo,NON G-CIMP,Mesenchymal,157,1
+TCGA-28-5219-01,wildtype,NonstandardRadiation.TMZChemo,NON G-CIMP,Classical,259,0
+TCGA-28-5220-01,wildtype,StandardRadiation.TMZChemo,NON G-CIMP,Classical,319,0
+TCGA-28-6450-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,165,1
+TCGA-32-1970-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,468,1
+TCGA-32-1976-01,wildtype,,NON G-CIMP,Proneural,15,1
+TCGA-32-1977-01,wildtype,,NON G-CIMP,Classical,3,0
+TCGA-32-1979-01,wildtype,,NON G-CIMP,Classical,593,1
+TCGA-32-1980-01,wildtype,,NON G-CIMP,Neural,36,1
+TCGA-32-1982-01,wildtype,AlkChemo,NON G-CIMP,Neural,142,1
+TCGA-32-1986-01,wildtype,StandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,386,1
+TCGA-32-1991-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,515,1
+TCGA-32-2491-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,372,1
+TCGA-32-2494-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,632,1
+TCGA-32-2495-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,457,1
+TCGA-32-2615-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Mesenchymal,485,1
+TCGA-32-2616-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,224,1
+TCGA-32-2632-01,wildtype,,NON G-CIMP,Mesenchymal,269,1
+TCGA-32-2634-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,270,0
+TCGA-32-2638-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,224,0
+TCGA-32-4208-01,R132H,TMZChemoradiation.TMZChemoLong,G-CIMP,Proneural,400,0
+TCGA-32-4209-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,338,0
+TCGA-32-4210-01,wildtype,,NON G-CIMP,Proneural,113,1
+TCGA-32-4211-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Neural,383,1
+TCGA-32-4213-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Mesenchymal,357,0
+TCGA-32-4719-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Classical,330,1
+TCGA-32-5222-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,165,0
+TCGA-41-2571-01,wildtype,TMZChemoLong,NON G-CIMP,Proneural,26,1
+TCGA-41-2572-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Classical,406,1
+TCGA-41-2573-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,272,0
+TCGA-41-2575-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,290,1
+TCGA-41-3392-01,wildtype,,NON G-CIMP,Neural,30,1
+TCGA-41-3393-01,wildtype,TMZChemoLong,NON G-CIMP,Mesenchymal,135,1
+TCGA-41-3915-01,wildtype,TMZChemoLong,NON G-CIMP,Mesenchymal,360,1
+TCGA-41-4097-01,wildtype,,NON G-CIMP,Mesenchymal,6,1
+TCGA-41-5651-01,wildtype,TMZChemoradiation.TMZChemoLong,NON G-CIMP,Proneural,351,0
+TCGA-41-6646-01,wildtype,,,,236,0
+TCGA-74-6573-01,wildtype,TMZChemoradiation.TMZChemoLong,,,105,1
+TCGA-74-6575-01,wildtype,,,,534,0
+TCGA-74-6577-01,wildtype,,,,132,0
+TCGA-74-6578-01,wildtype,,,,436,0
+TCGA-74-6581-01,wildtype,,,,250,0
+TCGA-74-6584-01,wildtype,,,,228,0
+TCGA-76-4925-01,wildtype,,NON G-CIMP,Proneural,146,1
+TCGA-76-4926-01,wildtype,NonstandardRadiation.TMZChemoLong,NON G-CIMP,Classical,138,1
+TCGA-76-4927-01,wildtype,,NON G-CIMP,Neural,535,1
+TCGA-76-4928-01,wildtype,NonstandardRadiation.TMZChemo,NON G-CIMP,Classical,94,1
+TCGA-76-4929-01,wildtype,,NON G-CIMP,Neural,111,1
+TCGA-76-4931-01,wildtype,,NON G-CIMP,Classical,279,1
+TCGA-76-4932-01,wildtype,,NON G-CIMP,Proneural,1458,1
+TCGA-76-4934-01,wildtype,,NON G-CIMP,Proneural,77,1
+TCGA-76-4935-01,wildtype,,NON G-CIMP,Proneural,328,0
+TCGA-76-6191-01,wildtype,,NON G-CIMP,Proneural,508,1
+TCGA-76-6192-01,wildtype,,NON G-CIMP,Proneural,100,1
+TCGA-76-6193-01,wildtype,,NON G-CIMP,Mesenchymal,82,1
+TCGA-76-6280-01,wildtype,,,,346,1
+TCGA-76-6282-01,wildtype,,NON G-CIMP,Mesenchymal,519,1
+TCGA-76-6283-01,wildtype,,,,,
+TCGA-76-6285-01,wildtype,,NON G-CIMP,Proneural,254,1
+TCGA-76-6286-01,wildtype,,,,638,1
+TCGA-76-6656-01,wildtype,,,,147,1
+TCGA-76-6657-01,wildtype,,,,153,1
+TCGA-76-6660-01,wildtype,,,,,
+TCGA-76-6661-01,wildtype,,,,7,0
+TCGA-76-6662-01,wildtype,,,,282,0
+TCGA-76-6663-01,wildtype,,,,235,0
+TCGA-76-6664-01,wildtype,,,,237,0
+TCGA-81-5910-01,wildtype,,NON G-CIMP,Classical,49,1
+TCGA-81-5911-01,wildtype,,,,539,0
+TCGA-87-5896-01,wildtype,,NON G-CIMP,Classical,800,0
