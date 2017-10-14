@@ -1,0 +1,75 @@
+NS	Age	Gender	Grade	IDH1	Pathology	batch
+X7	45	M	IV	wildtype	GBM	one
+X10	46	M	IV	mutant	GBM	one
+X12	51	M	IV	wildtype	GBM	one
+X24	67	F	IV	wildtype	GBM	one
+X26	65	F	II	wildtype	OA	one
+X34	43	M	IV	wildtype	GBM	one
+X35	56	M	II	mutant	OA	one
+X36	28	F	II	mutant	OA	one
+X40	44	M	II	mutant	Diff Astro	one
+X43	37	M	II	mutant	Diff Astro	one
+X63	48	M	II	mutant	Diff Astro	one
+X66	33	M	II	mutant	OA	one
+X69	37	M	II	mutant	OA	two
+X71	39	M	IV	wildtype	GBM W Oligo	two
+X79	37	M	II	mutant	OA	two
+X83	59	M	IV	mutant	GBM	two
+X91	61	F	IV	wildtype	GBM	two
+X102	75	M	IV	wildtype	GBM	two
+X106	73	F	IV	wildtype	GBM	two
+X112	54	F	II	mutant	OA	two
+X115	66	M	IV	mutant	GBM	two
+X119	72	M	IV	mutant	GBM	two
+X121	74	F	IV	mutant	GBM W Oligo	two
+X122	28	F	II	mutant	Diff Astro	two
+X176	66	M	II	mutant	Diff Astro	five
+X182	45	M	II	mutant	Diff Astro	five
+X183	43	F	II	mutant	OA	five
+X185	38	M	II	mutant	Diff Astro	five
+X188	50	F	II	mutant	Oligodendroglioma	five
+X190	20	M	II	wildtype	Diff Astro	five
+X192	32	F	II	mutant	Diff Astro	five
+X194	64	F	IV	mutant	GBM	five
+X195	37	F	II	mutant	Diff Astro	five
+X204	27	F	II	wildtype	OA	five
+X209	29	F	II	mutant	Diff Astro	five
+X213	59	M	IV	wildtype	GBM	five
+X219	31	M	II	wildtype	Diff Astro	six
+X221	70	M	IV	mutant	GBM	six
+X224	40	F	II	wildtype	Diff Astro	six
+X227	41	M	II	wildtype	Diff Astro	six
+X231	62	F	IV	mutant	GBM W Oligo	six
+X232	58	M	IV	wildtype	GBM	six
+X233	58	M	IV	wildtype	GBM	six
+X237	32	M	II	mutant	Diff Astro	six
+X239	36	F	II	mutant	Diff Astro	six
+X241	26	F	IV	mutant	GBM	six
+X246	56	M	IV	mutant	GBM	six
+X247	40	M	II	mutant	OA	six
+X249	52	M	IV	mutant	GBM	seven
+X250	50	M	II	mutant	OA	seven
+X252	41	F	II	mutant	gemistocytic astro	seven
+X256	41	M	II	wildtype	gemistocytic astro	seven
+X257	35	M	II	mutant	Diff Astro	seven
+X258	48	M	IV	mutant	GBM	seven
+X261	51	F	II	wildtype	Oligodendroglioma	seven
+X264	50	M	II	mutant	Diff Astro	seven
+X269	73	M	IV	wildtype	GBM	seven
+X271	77	M	IV	mutant	GBM	seven
+X272	31	F	IV	wildtype	GBM	eight
+X273	54	M	IV	wildtype	GBM	eight
+X275	32	F	IV	mutant	GBM	eight
+X278	45	F	II	wildtype	OA	eight
+X282	47	F	II	mutant	OA	eight
+X283	39	F	II	wildtype	OA	eight
+X285	58	M	II	mutant	Diff Astro	eight
+X293	63	F	II	mutant	OA	eight
+X132	61	F	IV	wildtype	GBM	ten
+X138	81	M	IV	mutant	GBM	ten
+X141	71	F	II	mutant	Diff Astro	ten
+X151	62	F	IV	wildtype	GBM	ten
+X155	32	M	II	wildtype	OA	ten
+X160	78	M	IV	mutant	GBM	ten
+X169	35	M	IV	wildtype	GBM	ten
+X174	43	M	II	mutant	Diff Astro	ten
