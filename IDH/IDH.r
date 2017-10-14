@@ -138,5 +138,17 @@ idhDEG$name <- rownames(idhDEG)
 with(subset(idhDEG, abs(logFC)>1), textxy(logFC, -log10(adj.P.Val), labs=name, cex=.9))
 
 
+idhDEG_select <- c("hsa-miR-204", "hsa-miR-34b", "hsa-miR-221","hsa-miR-148a", 
+                   "hsa-miR-155", "hsa-miR-34a", "hsa-miR-222")
+idhDEG_select
+idhDEG_8miR <- logcounts[idhDEG_select,]
+dim(idhDEG_8miR)
+head(idhDEG_8miR)
+
+heatmap.2(idhDEG_8miR,col=rev(morecols(50)),trace="none", 
+          main="IDH DE miRs",ColSideColors=col.idh,scale="row", margins = c(5,9), dendrogram = "column")
+coords <- locator(1) #click plot to get coordinates
+legend(coords, legend = unique(sampleinfo$IDH1mutation), col = unique(col.idh), lty = 1, lwd= 5, cex=.7)
+
 
 
