@@ -1,0 +1,49 @@
+NS	Age	Gender	Grade	IDH1	Pathology	batch
+X12.1			IV	wildtype		nine
+X34.1			IV	wildtype		nine
+X40.1			II	mutant		nine
+X66.1			II	mutant		nine
+X79.1			II	mutant		nine
+X102.1			IV	wildtype		nine
+X115.1			IV	mutant		nine
+X122.1			II	mutant		nine
+HD1.2	32	F	healthy			nine
+HD2.2	52	M	healthy			nine
+HD3.2	47	M	healthy			nine
+HD4	45	M	healthy			nine
+X132.1			IV			ten
+X138.1			IV	mutant		ten
+X141.1			II	mutant		ten
+X151.1			IV	wildtype		ten
+X155.1			II	wildtype		ten
+X160.1			IV	mutant		ten
+X169.1			IV	wildtype		ten
+X174.1			II	mutant		ten
+HD005	56	M	healthy			ten
+VBDR410	25	F	healthy			ten
+VBDR411	46	F	healthy			ten
+VBDR414	38	F	healthy			ten
+X183.1			II	mutant		eleven
+X190.1			II	wildtype		eleven
+X195.1			II	mutant		eleven
+X213.1			IV			eleven
+X224.1			II	wildtype		eleven
+X232.1			IV	wildtype		eleven
+VBDR.429	22	M	healthy			eleven
+VBDR.43	31	M	healthy			eleven
+VBDR.436	33	F	healthy			eleven
+VBDR.440	45	F	healthy			eleven
+VBDR.443	20	M	healthy			eleven
+VBDR.453	34	F	healthy			eleven
+X239.1			II	mutant		twelve
+X247.1			II	mutant		twelve
+X252.1			II	mutant		twelve
+X257.1			II	mutant		twelve
+X264.1			II	mutant		twelve
+X272.1			IV	wildtype		twelve
+X278.1			II	wildtype		twelve
+X285.1			II	mutant		twelve
+X293.1			II	mutant		twelve
+VBDR.454	30	F	healthy			twelve
+VBDR.457	46	F	healthy			twelve
+VBDR.458	37	F	healthy			twelve
